@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Hudaibiyah
-- 👀 I’m interested in Developing Application
-- 🌱 I’m currently learning Oracle
+Hi, I’m Hudaibiah Syed 👋  
+👨‍💻 Web Developer | Passionate about building responsive, real-world applications  
+🌐 Skilled in Java, PHP, JavaScript, MySQL, and modern web technologies  
+💼 Previously worked at Merkle-DGS as an Associate Analyst  
+📚 Currently enhancing full-stack skills through professional training at SDAC Infotech  
+🚀 Projects include a Restaurant Management System and Real-Time Chat App 
+🔍 Actively learning Node.js, MongoDB, and backend systems  
+📫 Reach me at: syedhudaib.68@gmail.com  
+
 
 
 
