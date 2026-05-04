@@ -1,5 +1,5 @@
 Hi, I’m Hudaibiah Syed 👋  
-👨‍💻 Web Developer | Passionate about building responsive, real-world applications  
+👨‍💻Data Analyst| Web Developer | Passionate about building responsive, real-world applications  
 🌐 Skilled in Java, PHP, JavaScript, MySQL, and modern web technologies  
 💼 Previously worked at Merkle-DGS as an Associate Analyst  
 📚 Currently enhancing full-stack skills through professional training at SDAC Infotech  
